@@ -18,3 +18,9 @@ The dataset used for this project is prepared by combining different datasets an
  Here's the link to the dataset:
 
 [**Raw Dataset Link**](https://drive.google.com/file/d/1tl13Nt2J-9A6qFR4VxssQm_7Gx2DS5f3/view?usp=sharing)
+
+## License
+This project is under Apache License 2.0. Please review the LICENSE file for more details.
+
+## Acknowledgments
+This project is being completed under the guidance of *Rajnish Chaudhary Sir*
