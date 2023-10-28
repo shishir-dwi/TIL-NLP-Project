@@ -7,7 +7,7 @@ This particular branch, under the stewardship of Aman Rai, serves a pivotal role
 DistilBERT Model :https://drive.google.com/drive/folders/1-oyXd7Gi5-Ewdw75ktVFtc1cH_JiHqKs?usp=sharing
 
 # Work_Flow
-Document : https://drive.google.com/file/d/1uL_d6rFZyk7iZYSNj78qMj_v9ZOnFWsL/view?usp=drive_link
+Document : https://docs.google.com/document/d/13Fvu4ifrtyIpfwyFA0wqXxprEjthXV4R/edit?usp=sharing&ouid=106027522825160185336&rtpof=true&sd=true
 
 # Contact Details
 - Email: amanr3277@gmail.com
