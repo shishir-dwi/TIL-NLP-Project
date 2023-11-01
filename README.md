@@ -8,7 +8,7 @@ DistilBERT Model :https://drive.google.com/drive/folders/1-oyXd7Gi5-Ewdw75ktVFtc
 
 # Work_Flow
 Document :https://docs.google.com/document/d/1uozCVZhifx807VYoQAtQJG40yzRGJDPE/edit#heading=h.gjdgxs
-# POC
+# POC For DistilBERT
 Document :https://docs.google.com/document/d/1rvMDttsAZTBJBVFBmHjsZJK8rGnG-l4C/edit
 # Contact Details
 - Email: amanr3277@gmail.com
