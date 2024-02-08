@@ -7,7 +7,7 @@ Welcome! This repository is dedicated to a TIL project i.e. text classification 
 
 Text classification is a fundamental task in natural language processing (NLP) that involves categorizing text into predefined classes or categories. It has a wide range of applications, including sentiment analysis, spam detection, topic categorization, and more.
 
-In this project, we'll be developing a text classification model using machine learning and deep learning techniques. The goal is to accurately classify text data/articles into different classes based on IAB categorization.
+In this project, we'll be developing a text classification model using deep learning techniques and Foundation Models(LLMs) like Llama2 by Meta, MistralAI, etc.. The goal is to accurately classify text data/articles into different classes based on IAB categorization.
 
 ## Dataset
 
